@@ -1,1 +1,4 @@
 I changed it. 4
+
+
+git pull = git fetch + git merge
